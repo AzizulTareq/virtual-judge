@@ -8,6 +8,7 @@ int main()
     int a, b, c;
     int count = 0;
     cin>>T;
+    
 while(T<20 && T--)
 {
     count++;
