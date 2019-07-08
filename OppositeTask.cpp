@@ -15,6 +15,6 @@ int main()
     else{
         cout<<0<<" "<<n<<endl;
     }
-    }
-    }
+   }
+  }
 
