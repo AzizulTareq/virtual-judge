@@ -9,6 +9,7 @@ int main()
             break;
 
         int N, M, X, Y;
+        
         cin >> N >> M;
         for(int i=1; i<=K; i++)
         {
